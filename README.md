@@ -1,2 +1,3 @@
 # Gitstuff
 BIts 4 learning
+Hi, for those of you who have got this far 'hello' I'm still learning the topic of coding and what it can do. Although i'm not dedicating as much time as i'd like, however we do what we can do ! So if you can assist in a meaningful way to anything positive then do. Otherwise ignore the previous paragraph...
